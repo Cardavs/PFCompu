@@ -1,0 +1,6 @@
+﻿  Iluminación.cpp
+d:\p07\p06\window.h(12): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+d:\p07\p06\window.h(13): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+d:\p07\p06\iluminación.cpp(230): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+d:\p07\p06\iluminación.cpp(232): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  P06.vcxproj -> D:\P07\Debug\P06.exe
